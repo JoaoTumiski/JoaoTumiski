@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá! Me chamo joão Tumiski
 
-<!--
-**JoaoTumiski/JoaoTumiski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Ainda trabalho apenas com projetos pessoais
+- 🌱 Estou Estudando Kotlin no intuito de ser especialista mobile
+- 💬 Contate-me no email: joaotumiski@gmail.com
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/JoaoTumiski">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JoaoTumiski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTumiski&layout=compact&langs_count=16theme=dark"/>
+  </div>
+  
+  ##
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="jao-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="jao-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg">
+  <img align="right" alt="Jao-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/696882494003216384/1072877454718406706/image.png">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div> 
+  <a href="https://www.instagram.com/joao.tumiski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:joaotumiski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = ""><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  
+</div>
