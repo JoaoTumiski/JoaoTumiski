@@ -12,8 +12,8 @@
   ##
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="jao-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="jao-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg">
+  <img align="center" alt="jao-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="jao-Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg">
   <img align="right" alt="Jao-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/696882494003216384/1072877454718406706/image.png">
 </div>
 
