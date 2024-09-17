@@ -1,7 +1,6 @@
 ### Olá! Me chamo joão Tumiski
 
 - 🔭 Ainda trabalho apenas com projetos pessoais
-- 🌱 Estou Estudando Kotlin no intuito de ser especialista mobile
 - 💬 Contate-me no email: joaotumiski@gmail.com
 
 <div>
@@ -13,11 +12,11 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="jao-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="jao-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="jao-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="jao-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="jao-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="jao-Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg">
-  <img align="right" alt="Jao-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/696882494003216384/1072877454718406706/image.png">
+  <img align="right" alt="Jao-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/CoPopkVutF2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">
 </div>
 
 ##
