@@ -16,7 +16,7 @@
   <img align="center" alt="jao-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="jao-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="jao-Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg">
-  <img align="right" alt="Jao-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/CoPopkVutF2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">
+  <img align="right" alt="Jao-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1257850154325639238/1285590195017744527/image.png?ex=66ead2ab&is=66e9812b&hm=64f34e37bd4f1b5b22ce41a8f2e3985d84b220ae1cdfee71e91aa208a8e3aa1d&">
 </div>
 
 ##
