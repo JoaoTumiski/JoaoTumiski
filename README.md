@@ -16,7 +16,7 @@
   <img align="center" alt="jao-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="jao-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="jao-Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg">
-  <img align="right" alt="Jao-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1257850154325639238/1285590195017744527/image.png?ex=66ead2ab&is=66e9812b&hm=64f34e37bd4f1b5b22ce41a8f2e3985d84b220ae1cdfee71e91aa208a8e3aa1d&">
+  <img align="right" alt="Jao-pic" height="150" style="border-radius:50px;" src="https://scontent.ffbe4-1.fna.fbcdn.net/v/t39.30808-6/343771946_6172311596185183_5656326562228494705_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFJE39Pu4S0t1ZxsxzwGTmuh3sEHTfx8LaHewQdN_Hwtm3DU3p_Gcg4WcLzVMUASRamzpt675StsX6PcJFw0xbu&_nc_ohc=SswBp77naeEQ7kNvgGZibfR&_nc_zt=23&_nc_ht=scontent.ffbe4-1.fna&_nc_gid=A7aJGAdNAlLnekbW2b-OwuA&oh=00_AYCGi2skpO0edkZ7mHh8nnTR-BADyQrdEZFbEpqNMo62dg&oe=67427956">
 </div>
 
 ##
