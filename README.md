@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/61f9d6bb-da53-4215-a866-afe8820e88db)### Olá! Me chamo joão Tumiski
+### Olá! Me chamo joão Tumiski
 
 - 🔭 Trabalho no setor de tecnologias de Indexa Ltda
 - 💬 Contate-me no email: joaotumiski@gmail.com
